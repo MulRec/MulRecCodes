@@ -1,0 +1,56 @@
+[
+{
+    "name": "C",
+    "lexer": "/home/dataset/mygrammars-v4/c",
+    "parser": "/home/dataset/mygrammars-v4/c",
+    "start": "compilationUnit"
+},
+{
+    "name": "CPP14",
+    "lexer": "/home/dataset/mygrammars-v4/cpp/Python3",
+    "parser": "/home/dataset/mygrammars-v4/cpp/Python3",
+    "start": "translationUnit"
+},
+{
+    "name": "Python3",
+    "lexer": "/home/dataset/mygrammars-v4/python/python3/Python3",
+    "parser": "/home/dataset/mygrammars-v4/python/python3/Python3",
+    "start": "file_input"
+},
+{
+  "name": "Java",
+  "lexer": "/home/dataset/mygrammars-v4/java/java",
+  "parser": "/home/dataset/mygrammars-v4/java/java",
+  "start": "compilationUnit"
+},
+{
+  "name": "JavaScript",
+  "lexer": "/home/dataset/mygrammars-v4/javascript/javascript/Python3",
+  "parser": "/home/dataset/mygrammars-v4/javascript/javascript/Python3",
+  "start": "program"
+},
+{
+  "name": "Go",
+  "lexer": "/home/dataset/mygrammars-v4/golang/Python3",
+  "parser": "/home/dataset/mygrammars-v4/golang/Python3",
+  "start": "functionDecl"
+},
+{
+  "name": "Ruby",
+  "lexer": "/home/dataset/mygrammars-v4/ruby",
+  "parser": "/home/dataset/mygrammars-v4/ruby",
+  "start": "function_definition"
+},
+{
+  "name": "CSharp",
+  "lexer": "/home/dataset/mygrammars-v4/csharp",
+  "parser": "/home/dataset/mygrammars-v4/csharp",
+  "start": "compilation_unit"
+},
+{
+  "name": "Php",
+  "lexer": "/home/dataset/mygrammars-v4/php/Python3",
+  "parser": "/home/dataset/mygrammars-v4/php/Python3",
+  "start": "htmlDocument"
+}
+]
